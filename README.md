@@ -10,3 +10,6 @@ https://github.com/Desayuno64/QuickBlockingForBlender/assets/66540128/174dae16-a
 
 You can use the crease edges to delete unwanted rails, and any vertex paint you make to the blocking will transfer to the end results.
 
+Consider visiting my Esponsor:
+https://esponsor.com/desayuno64
+
